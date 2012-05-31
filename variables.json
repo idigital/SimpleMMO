@@ -1,21 +1,16 @@
-﻿{
+{
   "general" : {
     "accounts" : {
       "signup-handling" : "AUTO",
       "login-handling" : "AUTO"
     },
-    "currency" : "coins"
+    "currency" : "coins",
+    "data-variable" : "i"
   },
   "mysql" : {
     "host" : "127.0.0.1",
     "database" : "github/simplemmo",
     "username" : "simplemmo",
     "password" : "gametime"
-  },
-  "items" : {
-    "Uber Bread" : {
-      "sprite" : "images/iconfile.ico"
-    }
   }
-
 }
